@@ -2,6 +2,9 @@
 
 使用 YOLOv8 目标检测模型实现的自动收集阳光工具（植物大战僵尸）。
 
+素材用的这个：https://gamefunbar.com/zh-cn/game/plants-vs-zombies/
+（侵删）
+
 ## 项目结构
 
 ```
