@@ -1,0 +1,5 @@
+path: D:\我的资源\yolo\训练模型
+train: D:\我的资源\yolo\训练模型\images\train
+val: D:\我的资源\yolo\训练模型\images\val
+nc: 1
+names: ['sun']
